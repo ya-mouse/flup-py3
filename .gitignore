@@ -1,0 +1,6 @@
+.hg
+*~
+__pycache__
+build
+dist
+flup.egg-info
